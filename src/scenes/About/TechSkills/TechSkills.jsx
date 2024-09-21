@@ -32,9 +32,9 @@ const TechSkills = () => {
       <li className={s.techIcon}>
         <DiMongodb />
       </li>
-      <li className={s.techIcon}>
+      {/* <li className={s.techIcon}>
         <DiSass />
-      </li>
+      </li> */}
       <li className={s.techIcon}>
         <SiAmazonaws />
       </li>

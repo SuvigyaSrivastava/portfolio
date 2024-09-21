@@ -1,16 +1,17 @@
 const data = [
   {
     id: '1',
-    title: 'SallyPOS',
+    title: 'MOMGen',
     description:
-      'Point of Sale (POS) for iOS and Android. Optimized for Smartphones and Tablets. SallyPOS is the ultimate tool to help manage your sales and streamline your operations.',
+      ' Developed a video calling web app that automatically summarizes discussions and provides detailed meeting notes to ' +
+      'enhance productivity and documentation.',
     image: {
       src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1721484550/portfolio/projects/SallyPOS/1111_mfdzqt.png',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://apps.apple.com/za/app/sally-pos/id6446204909',
+      site: 'https://github.com/SuvigyaSrivastava/VideoEditor',
     },
     technologies: [
       '#typescript',
@@ -27,16 +28,16 @@ const data = [
   },
   {
     id: '2',
-    title: 'Syntho',
+    title: 'Hire-Wire',
     description:
-      'Syntho is an electronic music education application. Connect with like minded users as you build your own custom profile, communicate and share music via the newsfeed.',
+      'Built Laborer Hiring Platform: Engineered a full-featured laborer hiring platform using the MERN stack. The platform enables laborers to seek work opportunities, allows employers to hire efficiently, supports job posting and searching functionalities, and uses Firebase for secure user authentication and data management. It is an electronic music education application. Connect with like-minded users as you build your own custom profile, communicate, and share music via the newsfeed.',
     image: {
       src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671564532/portfolio/projects/Syntho/Screenshot_2022-12-20_at_21.26.17_1_c59hzo.jpg',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://apps.apple.com/us/app/syntho/id1615419392',
+      site: 'https://apps.https://github.com/SuvigyaSrivastava/Hire-Wire.com/us/app/syntho/id1615419392',
     },
     technologies: [
       '#typescript',
@@ -51,16 +52,16 @@ const data = [
   },
   {
     id: '3',
-    title: 'Minfin - Currency Rates',
+    title: 'Smart Parking Space Detection and Alert System',
     description:
-      'Minfin Currency - application with all necessary information about currency: from currency rates - to the nearest places where you can exchange currency in your city.',
+      '∗ Developed a system to detect available parking spaces in video streams using Mask R-CNN, sending real-time SMS alerts via Twilio.',
     image: {
       src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1671563302/portfolio/projects/minfin/Screenshot_2022-12-20_at_21.06.43_vl5h6k.jpg',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://apps.apple.com/us/app/minfin-currency-rates/id1574863878',
+      site: 'https://https://github.com/SuvigyaSrivastava/SmartParking.apple.com/us/app/minfin-currency-rates/id1574863878',
     },
     technologies: [
       '#typescript',
@@ -73,16 +74,16 @@ const data = [
   },
   {
     id: '4',
-    title: 'Apiko Marketplace',
+    title: 'Recipe Webapp',
     description:
-      'An online marketplace made with React. The project was developed on 8th Apiko Intensive.',
+      'An online recipe sharing webapp with CRUD funcionalities and authentication for different types of users ',
     image: {
       src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348072/portfolio/projects/react-marketplace/apiko-marketplace-lg_xppe9n.jpg',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      repo: 'https://github.com/vsnaichuk/apiko-marketplace-app-snaichuk',
+      repo: 'https://ecowiser-production.up.railway.app/',
     },
     technologies: [
       '#react',
@@ -96,16 +97,26 @@ const data = [
   },
   {
     id: '5',
-    title: 'eCommerce Mobile App',
+    title: 'Fashion Geneie',
     description:
-      'A Mobile eCommerce application built with React Native that includes cart functionality, push notifications, user authentication and user orders',
+      '• Built an artificial intelligence based system which created custom styling outfits by extracting and learning clothing data from Flipkart, based on user history which can be improved even further.',
+    technologies: [
+      '#python',
+      '#tensorflow',
+      '#keras',
+      '#flask',
+      '#beautifulsoup',
+      '#selenium',
+      '#pandas',
+      '#numpy',
+    ],
     image: {
       src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348073/portfolio/projects/rn-shop/rn-shop-lg_fofglf.jpg',
       placeholderSrc:
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      repo: 'https://github.com/vsnaichuk/RN-shop',
+      repo: 'https://github.com/SuvigyaSrivastava/RN-shop',
     },
     technologies: [
       '#react-native',
@@ -118,29 +129,29 @@ const data = [
       '#mongodb',
     ],
   },
-  {
-    id: '6',
-    title: 'Places Mobile App',
-    description:
-      'A Mobile application for sharing places that people visit from all over the world. Uses React Native, TypeScript, MobX and Native Device Features',
-    image: {
-      src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348073/portfolio/projects/rn-places/rn-places-lg_ljyikm.jpg',
-      placeholderSrc:
-        'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
-    },
-    links: {
-      repo: 'https://github.com/vsnaichuk/RN-places',
-    },
-    technologies: [
-      '#react-native',
-      '#typescript',
-      '#expo',
-      '#mobx',
-      '#sqlite',
-      '#react-native-maps',
-      '#expo-location',
-    ],
-  },
+  // {
+  //   id: '6',
+  //   title: 'Places Mobile App',
+  //   description:
+  //     'A Mobile application for sharing places that people visit from all over the world. Uses NodeJs, TypeScript, MobX and Native Device Features',
+  //   image: {
+  //     src: 'https://res.cloudinary.com/dx6tl6aa2/image/upload/v1628348073/portfolio/projects/rn-places/rn-places-lg_ljyikm.jpg',
+  //     placeholderSrc:
+  //       'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
+  //   },
+  //   links: {
+  //     repo: 'https://github.com/SuvigyaSrivastava/RN-places',
+  //   },
+  //   technologies: [
+  //     '#react-native',
+  //     '#typescript',
+  //     '#expo',
+  //     '#mobx',
+  //     '#sqlite',
+  //     '#react-native-maps',
+  //     '#expo-location',
+  //   ],
+  // },
   {
     id: '7',
     title: 'Shopping Cart',
@@ -152,8 +163,8 @@ const data = [
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://shopping-cart-sv.netlify.app/',
-      repo: 'https://github.com/vsnaichuk/React-ShoppingCart',
+      site: 'https://profilefyi-ten.vercel.app/',
+      repo: 'https://github.com/SuvigyaSrivastava/Cart',
     },
     technologies: [
       '#react',

@@ -6,28 +6,28 @@ const AboutTextCard = () => {
     <div className={s.card}>
       <p style={{ textAlign: 'justify' }}>
         Hi Everyone, I am{' '}
-        <span className={s.purple}>Snaichuk Volodymyr, </span>
+        <span className={s.purple}>SUVIGYA SRIVASTAVA, </span>
         <br />a software engineer currently based in{' '}
-        <span className={s.purple}>Krakow, Poland.</span>
+        <span className={s.purple}>Delhi, India</span>
         <br />
         <br />
-        I have a Bachelor's degree in Computer Science and
+        I have a Bachelor's degree in Computer Science
         <br />
-        Master's degree in Project Management from Ternopil Academy.
+        from ABES Engineering College
         <br />
         <br />
-        Apart from coding, some other activities that I love to do!
+        Apart from coding, am a departmental lead at GDSC ABESEC, also some of my favourite activities are:
       </p>
 
       <ul>
         <li className={s.aboutActivity}>
-          <ImPointRight /> Playing Games
+          <ImPointRight /> Mentoring
         </li>
         <li className={s.aboutActivity}>
           <ImPointRight /> Reading
         </li>
         <li className={s.aboutActivity}>
-          <ImPointRight /> Travelling
+          <ImPointRight />Cinematography
         </li>
       </ul>
     </div>

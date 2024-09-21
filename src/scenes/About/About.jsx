@@ -3,7 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout/BaseLayout';
 import aboutPromoImg from '../../assets/about-promo.svg';
 import AboutTextCard from './AboutTextCard/AboutTextCard';
 import TechSkills from './TechSkills/TechSkills';
-import GithubActivity from './GithubActivity/GithubActivity';
+// import GithubActivity from './GithubActivity/GithubActivity';
 
 const About = () => {
   return (
@@ -27,10 +27,10 @@ const About = () => {
         </h2>
         <TechSkills />
 
-        <h2 className={s.githubActivity}>
+        {/* <h2 className={s.githubActivity}>
           Days I <b className={s.purple}>Code</b>
         </h2>
-        <GithubActivity />
+        <GithubActivity /> */}
       </div>
     </BaseLayout>
   );

@@ -21,7 +21,7 @@ const IntroSection = () => {
 
           <div className={s.description}>
             <p>
-              I'm a React Native Developer with <b>3 years</b> of
+              I'm a MERN STACK DEVELOPER with <b>3 years</b> of
               experience <br />
               creating mobile apps for the iOS, Android, and Web
               platforms.
@@ -31,7 +31,7 @@ const IntroSection = () => {
               My skills include proficiency in{' '}
               <i>
                 <b className={s.purple}>
-                  TypeScript, React, React Native,
+                  TypeScript, React, NodeJs,
                 </b>
               </i>
               <br />
@@ -64,14 +64,14 @@ const IntroSection = () => {
         <ul className={s.socialLinks}>
           <li className={s.socialLink}>
             <a
-              href="https://github.com/vsnaichuk"
+              href="https://github.com/SuvigyaSrivastava"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}
               aria-label="github"
             >
               <AiFillGithub />
-            </a>
+            {/* </a>
           </li>
           <li className={s.socialLink}>
             <a
@@ -81,8 +81,8 @@ const IntroSection = () => {
               className={s.socialIcon}
               aria-label="facebook"
             >
-              <FaFacebookSquare />
-            </a>
+              <FaFacebookSquare /> */}
+            {/* </a>
           </li>
           <li className={s.socialLink}>
             <a
@@ -92,12 +92,12 @@ const IntroSection = () => {
               className={s.socialIcon}
               aria-label="telegram"
             >
-              <FaTelegramPlane />
+              <FaTelegramPlane /> */}
             </a>
           </li>
           <li className={s.socialLink}>
             <a
-              href="https://www.linkedin.com/in/volodymyr-snaichuk-74a389124/"
+              href="https://www.linkedin.com/in/suvigya-srivastava-134a8221a/"
               target="_blank"
               rel="noreferrer"
               className={s.socialIcon}

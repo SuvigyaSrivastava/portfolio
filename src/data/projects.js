@@ -11,7 +11,7 @@ const data = [
         'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjwvc3ZnPg==',
     },
     links: {
-      site: 'https://github.com/SuvigyaSrivastava/VideoEditor',
+      site: 'https://meets-app.netlify.app/',
     },
     technologies: [
       '#typescript',

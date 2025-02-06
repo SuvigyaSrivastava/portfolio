@@ -23,8 +23,7 @@ const IntroSection = () => {
             <p>
               I'm a MERN STACK DEVELOPER with <b>3 years</b> of
               experience <br />
-              creating mobile apps for the iOS, Android, and Web
-              platforms.
+              
             </p>
 
             <p>
